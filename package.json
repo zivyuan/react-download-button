@@ -1,5 +1,5 @@
 {
-  "name": "react-file-download",
+  "name": "react-download-button",
   "version": "1.0.0",
   "description": "A download button for react",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zivyuan/react-file-download.git"
+    "url": "git+https://github.com/zivyuan/react-download-button.git"
   },
   "keywords": [
     "react",
@@ -22,7 +22,7 @@
   "author": "zivyuan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zivyuan/react-file-download/issues"
+    "url": "https://github.com/zivyuan/react-download-button/issues"
   },
-  "homepage": "https://github.com/zivyuan/react-file-download#readme"
+  "homepage": "https://github.com/zivyuan/react-download-button#readme"
 }
